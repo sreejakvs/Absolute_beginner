@@ -4,6 +4,6 @@ def Smaller(a,b):
     else:
         print(b)
 
-n1=int(input())
-n2=int(input())
-Smaller(n1,n2)
+p=int(input())
+q=int(input())
+Smaller(p,q)
