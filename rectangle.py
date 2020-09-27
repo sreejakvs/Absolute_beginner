@@ -1,5 +1,5 @@
 def Rect(l,b):
-    area=2*(l+b)
+    area=l*b
     print(area)
     
 
